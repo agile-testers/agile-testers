@@ -6,9 +6,9 @@
 - 🔭 Nós somos uma Comunidade de Testes Brasileira
 - 🌐 [Site](http://agiletesters.com.br/)
 - :headphones: [Podcast](https://anchor.fm/qansei)
-- :video_camera: [Youtube] (https://www.youtube.com/agiletesters)
+- :video_camera: [Youtube](https://www.youtube.com/agiletesters)
 - :blue_book: [Facebook](https://www.facebook.com/agiletesters)
-- :email: [QA Brasil Vagas] (https://github.com/qa-brasil/vagas)
+- :email: [QA Brasil Vagas](https://github.com/qa-brasil/vagas)
 - :wave: [Fórum](https://github.com/AgileTesters/forum)
 - :newspaper: [Newsletter](https://www.getrevue.co/profile/agile-testers)
 
